@@ -1,2 +1,4 @@
-# balanza-aduanera
-Simulador de equipaje, valoración de artículos y aranceles aduanales para viajeros, con desglose de excesos y comprobante digital.
+# Maypop app
+
+A React and Vite app built with Maypop Studio. `pnpm dev` runs it locally;
+`maypop publish` releases it.

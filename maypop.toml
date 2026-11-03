@@ -1,0 +1,11 @@
+[app]
+
+name = "Balanza Aduanera"
+description = "Simulador de equipaje, valoración de artículos y aranceles aduanales para viajeros, con desglose de excesos y comprobante digital."
+thumbnail = "public/maypop-cover-14cdee051df3a47f68e1940fbd6c69ba0773c09b93c412601711a5427840f4ee.png"
+tags = ["travel"]
+[build]
+framework = "vite"
+
+[studio]
+user_set = ["description","name","tags","thumbnail"]
